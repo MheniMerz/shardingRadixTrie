@@ -9,5 +9,5 @@ Sharding radix tries to reduce read/write locks
    1. first implementation is a hashmap with pointers to the root of each shard
    2. benchmark *performance can be affected by parameters one is **shard number***
  Inline-style: 
- ![sharding a tree](https://github.com/MheniMerz/shardingRadixTrie/shardingTree.png)
+ ![sharding a tree](https://github.com/MheniMerz/shardingRadixTrie/blob/master/shardingTree.png)
 
